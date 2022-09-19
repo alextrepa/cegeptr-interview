@@ -5,7 +5,7 @@ interface Animal {
 }
 
 /**
- * Implémentez au moin 5 animaux.
+ * Implémentez au moins 5 animaux.
  * Les animaux doivent être les mêmes que dans la classe des animaux non polymorphe.
  * Les animaux doivent implementer l'interface Animal dans ce fichier.
  */

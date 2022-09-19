@@ -3,6 +3,7 @@ package cegeptr;
 /**
  * Implémentez au moins 5 animaux.
  * Les animaux doivent être les mêmes que dans la classe des animaux polymorphe.
+ * Les animaux dans se fichier ne doivent pas utiliser d'interface.
  */
 
 public class AnimalNonPolymorphe {
